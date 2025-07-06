@@ -2,7 +2,7 @@
 A sleek and customizable password generator crafted with HTML, CSS, and JavaScript. It allows users to create secure passwords with various character options.
 
 Live Demo
-👉 
+👉  [Generate Password](https://arshitayal.github.io/Password-Generator/)
 
 ✨ **Key Features**
 
